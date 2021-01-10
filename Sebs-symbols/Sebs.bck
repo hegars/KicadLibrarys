@@ -1,15 +1,7 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP 4Mbx1FPMDRAM
-D 4M x 1bit Fast Page Mode DRAM
-$ENDCMP
-#
 $CMP 4Mx1FPMDRAM
 D 4M x 1bit Fast Page Mode DRAM
-$ENDCMP
-#
-$CMP 4Mx1FPRAM
-D 4Mx1 Fast Page Mode DRAM
 $ENDCMP
 #
 $CMP 4Mx4FPMDRAM
